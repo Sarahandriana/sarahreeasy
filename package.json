@@ -1,6 +1,6 @@
 {
-  "name": "reeasy",
-  "version": "0.5.14",
+  "name": "sarahreeasy",
+  "version": "1.5.5",
   "description": "Framework of React app with easy configuration. Support HMR and custom server. As simple as next.js.",
   "main": "lib/index.js",
   "scripts": {
@@ -53,7 +53,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lonord/reeasy.js.git"
+    "url": "https://github.com/Sarahandriana/sarahreeasy"
   },
   "devDependencies": {
     "coffee": "^4.1.0",
