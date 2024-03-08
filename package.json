@@ -53,7 +53,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Sarahandriana/sarahreeasy"
+    "url": "git+https://github.com/Sarahandriana/sarahreeasy.git"
   },
   "devDependencies": {
     "coffee": "^4.1.0",
